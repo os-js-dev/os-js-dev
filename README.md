@@ -8,3 +8,4 @@
 os-js-dev/os-js-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/onesamket"><img src="https://api.daily.dev/devcards/803396ae5ee4456599a5535b2fa085bd.png?r=bth" width="400" alt="Teddy Birhanu's Dev Card"/></a>
